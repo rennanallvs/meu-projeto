@@ -12,8 +12,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: #88EBE7;
     background-image: url('imagens/android002.png');
-    
-
+    font-size: 1.2em;
 }
 
 header{
@@ -29,6 +28,7 @@ header > h1{
 }
 .paragrafo{
     text-align: center;
+    padding: 5px;
 }
 nav{
 text-align: left;
